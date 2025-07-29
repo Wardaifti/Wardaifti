@@ -60,73 +60,57 @@ I am an AI Engineer with a BS in Artificial Intelligence and extensive hands-on 
 
 <h3 align="left">🛠 Languages & Tools</h3>
 
-<h3 align="left">🛠 Languages & Tools</h3>
-
 <div align="left">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
   
-  <br/><br/>
-  
-  <!-- Machine Learning -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-learn" title="Scikit-learn" />
+  <!-- ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" title="Scikit-learn" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn" title="Seaborn" />
-  
-  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" title="Seaborn" />
+  <img width="12" />
   
   <!-- Deep Learning -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" title="Keras" />
-  
-  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" title="Keras" />
+  <img width="12" />
   
   <!-- Computer Vision -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" title="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" title="OpenCV" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="YOLO" title="YOLO (via PyTorch)" />
-  
-  <br/><br/>
   
   <!-- NLP -->
-  <img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" height="40" alt="SpaCy" title="SpaCy" />
+  <img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" height="40" title="SpaCy" />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/6794700?s=48&v=4" height="40" alt="NLTK" title="NLTK" />
+  <img src="https://avatars.githubusercontent.com/u/6794700?s=48&v=4" height="40" title="NLTK" />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/192692?s=48&v=4" height="40" alt="Transformers" title="Hugging Face Transformers" />
-  
-  <br/><br/>
+  <img src="https://avatars.githubusercontent.com/u/192692?s=48&v=4" height="40" title="Hugging Face Transformers" />
+  <img width="12" />
   
   <!-- GenAI / LLMs -->
-  <img src="https://avatars.githubusercontent.com/u/68926648?s=48&v=4" height="40" alt="LangChain" title="LangChain" />
+  <img src="https://avatars.githubusercontent.com/u/68926648?s=48&v=4" height="40" title="LangChain" />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/17108609?s=48&v=4" height="40" alt="OpenAI API" title="OpenAI API" />
+  <img src="https://avatars.githubusercontent.com/u/17108609?s=48&v=4" height="40" title="OpenAI API" />
+  <img width="12" />
   
-  <br/><br/>
-  
-  <!-- Backend / Deployment -->
-  <img src="https://avatars.githubusercontent.com/u/18295293?s=48&v=4" height="40" alt="FastAPI" title="FastAPI" />
+  <!-- Backend -->
+  <img src="https://avatars.githubusercontent.com/u/18295293?s=48&v=4" height="40" title="FastAPI" />
   <img width="12" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40" alt="Streamlit" title="Streamlit" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40" title="Streamlit" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" title="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
 </div>
 
 
