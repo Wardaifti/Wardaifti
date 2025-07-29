@@ -66,15 +66,11 @@ I am an AI Engineer with a BS in Artificial Intelligence and extensive hands-on 
   <img width="12" />
   
   <!-- ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" title="Scikit-learn" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" title="Seaborn" />
   <img width="12" />
   
   <!-- Deep Learning -->
@@ -90,10 +86,6 @@ I am an AI Engineer with a BS in Artificial Intelligence and extensive hands-on 
   <img width="12" />
   
   <!-- NLP -->
-  <img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" height="40" title="SpaCy" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/6794700?s=48&v=4" height="40" title="NLTK" />
-  <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/192692?s=48&v=4" height="40" title="Hugging Face Transformers" />
   <img width="12" />
   
@@ -108,11 +100,18 @@ I am an AI Engineer with a BS in Artificial Intelligence and extensive hands-on 
   <img width="12" />
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40" title="Streamlit" />
   <img width="12" />
+  
+  <!-- Web Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
+  <img width="12" />
+  
+  <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" title="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
 </div>
-
 
 ###
 
