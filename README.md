@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wardaiftikhar.wardaiftikhar"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wardaifti.Wardaifti" />
 </div>
 
 ###
@@ -45,9 +45,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
+<h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
 I am an AI Engineer with a BS in Artificial Intelligence and extensive hands-on experience in building intelligent systems.  
@@ -61,8 +59,6 @@ I am an AI Engineer with a BS in Artificial Intelligence and extensive hands-on 
 ###
 
 <h3 align="left">🛠 Languages & Tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -82,12 +78,32 @@ I am an AI Engineer with a BS in Artificial Intelligence and extensive hands-on 
 
 ###
 
-<h3 align="left">🔥 My GitHub Stats</h3>
+<h3 align="left">🚀 Featured AI Projects</h3>
+
+<div align="center">
+  <a href="https://github.com/Wardaifti/Loan-Approval-ML" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wardaifti&repo=Loan-Approval-ML&theme=dark" />
+  </a>
+  <a href="https://github.com/Wardaifti/Customer-Segmentation" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wardaifti&repo=Customer-Segmentation&theme=dark" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Wardaifti/Smart-Campus-Navigation" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wardaifti&repo=Smart-Campus-Navigation&theme=dark" />
+  </a>
+  <a href="https://github.com/Wardaifti/Car-Rental-Management" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wardaifti&repo=Car-Rental-Management&theme=dark" />
+  </a>
+</div>
 
 ###
 
+<h3 align="left">🔥 My GitHub Stats</h3>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wardaiftikhar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wardaiftikhar&show_icons=true&locale=en&layout=compact&theme=dark" height="220" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Wardaifti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wardaifti&show_icons=true&locale=en&layout=compact&theme=dark" height="220" alt="languages graph" />
 </div>
 
